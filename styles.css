@@ -88,7 +88,7 @@ ul li::before{
   height: 48px;
   width: 48px;
   border-radius: 50%;
-  background-image: url(/images/uncheckedcircle.png);
+  background-image: url(/To-Do-List/images/uncheckedcircle.png);
   background-size: cover;
   background-position: center;
   top: 12px;
