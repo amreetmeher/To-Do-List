@@ -102,7 +102,7 @@ ul li.checked{
   font-size: smaller;
 }
 ul li.checked::before{
-  background-image: url(/images/checked.png) ;
+  background-image: url(/To-Do-List/images/checked.png) ;
   transition: .4s;
 }
 ul li span{
