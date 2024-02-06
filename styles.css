@@ -88,7 +88,7 @@ ul li::before{
   height: 48px;
   width: 48px;
   border-radius: 50%;
-  background-image: url(/images/uncheckedcircle.png);
+  background-image: url(/To-Do-List/images/uncheckedcircle.png);
   background-size: cover;
   background-position: center;
   top: 12px;
@@ -102,7 +102,7 @@ ul li.checked{
   font-size: smaller;
 }
 ul li.checked::before{
-  background-image: url(/images/checked.png) ;
+  background-image: url(/To-Do-List/images/checked.png) ;
   transition: .4s;
 }
 ul li span{
